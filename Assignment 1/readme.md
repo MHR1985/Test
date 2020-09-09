@@ -1,5 +1,5 @@
 # Assignment 1
-##Reflections
+## Reflections
 The possible reasons I could think of why the man did not die when the woman fired her gun was these:
 * She did not hit him.
 * He was bulletproof (wearing protective gear)
@@ -16,7 +16,7 @@ How to tell an alien to brush its teeth:
 * Move toothbrush in circles while touching teeth with the brush area. Make sure that all teeth will be touched on all sides at some point.
 * Do the above for two minutes.
 * Take the toothbrush out of mouth and spit in the sink.
-* Rinse with water.
+* Rinse with mouth and the toothbrush with water.
 
 ## Two katas
 See code.
@@ -24,7 +24,7 @@ See code.
 ## Thoughts:
 What was good: 
 * Only code what you need. 
-* When you make changes, you can see that if all previous steps still work.
+* When you make changes, you can see if all previous steps still work.
 * Better code structure
 
 Annoying or difficult:
